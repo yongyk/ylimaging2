@@ -232,9 +232,9 @@ body{
   }
   .card{
     height: 550px;
-    
+    margin:auto;
     width:550px;
-    
+    display:block;
     margin-top: 40px;
     background-color: antiquewhite;
     box-shadow: 3px 3px 3px 0px;
