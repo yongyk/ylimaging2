@@ -144,6 +144,7 @@ body{
     -webkit-transition: all ease-in-out 500ms;
     clear: left;
     margin-top: 40px;
+    
 }
 .main .imgban{
     width: 100%;
@@ -171,7 +172,8 @@ body{
 
   
   .header {
-    
+    width:1200px;
+    margin:auto;
     padding: 30px;
     text-align: center;
     font-size: 30px;
@@ -232,7 +234,8 @@ body{
   }
   .card{
     height: 550px;
-    margin-left:500px;
+    margin-left:50px;
+    margin-right:50px;
     width:1000px;
     display:block;
     margin-top: 40px;
