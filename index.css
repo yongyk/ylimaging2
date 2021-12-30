@@ -232,8 +232,8 @@ body{
   }
   .card{
     height: 550px;
-    margin:auto;
-    width:1200px;
+    margin-left:500px;
+    width:1000px;
     display:block;
     margin-top: 40px;
     background-color: antiquewhite;
